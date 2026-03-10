@@ -9,11 +9,11 @@ https://www.nber.org/papers/w34852
 
 ## Description
 
-The dataset contains a the narrative series of plausibly exogenous tariff policy changes in the United States. The series is constructed based on a detailed historical analysis of major tariff legislation and trade policy changes.
+The dataset contains a narrative series of plausibly exogenous tariff policy changes in the United States, constructed from a detailed historical analysis of major tariff legislation and trade policy changes.
 
-Following the narrative identification approach, tariff changes are classified according to their underlying motivation. Policy actions driven by factors unrelated to contemporaneous macroeconomic conditions are classified as plausibly exogenous tariff shocks.
+Following the narrative identification approach, tariff changes are classified according to their underlying motivation. Policy actions unrelated to contemporaneous macroeconomic outlook are classified as plausibly exogenous tariff shocks. The resulting series distributes tariff events over adjacent years.
 
-The resulting narrative shock series can be used to study the macroeconomic effects of tariff policy using time-series methods or external-instrument approaches.
+The series can be used to study the macroeconomic effects of tariff policy.
 
 For further details on the construction of the series and the classification of events, see the paper.
 
@@ -27,7 +27,7 @@ The data are licensed under the [Creative Commons Attribution 4.0 International 
 
 You are free to share and adapt the data provided appropriate credit is given. If you use these data, please cite the following paper:
 
-den Besten, Tamar; Känzig, Diego R. (2026).  
+Den Besten, Tamar; Känzig, Diego R. (2026).  
 *The Macroeconomic Effects of Tariffs: Evidence From U.S. Historical Data.*  
 NBER Working Paper No. 34852.  
 https://www.nber.org/papers/w34852  
@@ -35,7 +35,7 @@ https://www.nber.org/papers/w34852
 ```bibtex
 @techreport{denbesten2026tariffs,
   title       = {The Macroeconomic Effects of Tariffs: Evidence From U.S. Historical Data},
-  author      = {den Besten, Tamar and K{\"a}nzig, Diego R.},
+  author      = {Den Besten, Tamar and K{\"a}nzig, Diego R.},
   institution = {National Bureau of Economic Research},
   type        = {NBER Working Paper},
   number      = {34852},
