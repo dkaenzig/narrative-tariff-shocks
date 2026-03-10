@@ -19,7 +19,7 @@ For further details on the construction of the series and the classification of 
 
 ## Files
 
-- - [narrative-tariff-shocks.xlsx](narrative-tariff-shocks.xlsx): Narrative tariff shock series
+- [narrative-tariff-shocks.xlsx](narrative-tariff-shocks.xlsx): Narrative tariff shock series
 
 ### License
 
