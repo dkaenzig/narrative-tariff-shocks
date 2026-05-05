@@ -2,10 +2,10 @@
 
 This repository provides the narrative tariff shock series constructed in
 
-Den Besten, Tamar and Känzig, Diego R. (2026).  
-*The Macroeconomic Effects of Tariffs: Evidence From U.S. Historical Data.*  
-NBER Working Paper No. 34852.  
-https://www.nber.org/papers/w34852
+Den Besten, Tamar, Régis Barnichon, Diego R. Känzig, and Aayush Singh (2026).  
+*The Macroeconomic Effects of Tariffs: Insights from 180 Years of U.S. Trade Policy.*  
+NBER Working Paper No. 35102.  
+https://doi.org/10.3386/w35102
 
 ## Description
 
@@ -27,19 +27,20 @@ The data are licensed under the [Creative Commons Attribution 4.0 International 
 
 You are free to share and adapt the data provided appropriate credit is given. If you use these data, please cite the following paper:
 
-Den Besten, Tamar; Känzig, Diego R. (2026).  
-*The Macroeconomic Effects of Tariffs: Evidence From U.S. Historical Data.*  
-NBER Working Paper No. 34852.  
-https://www.nber.org/papers/w34852  
+Den Besten, Tamar, Régis Barnichon, Diego R. Känzig, and Aayush Singh (2026).  
+*The Macroeconomic Effects of Tariffs: Insights from 180 Years of U.S. Trade Policy.*  
+NBER Working Paper No. 35102.  
+https://doi.org/10.3386/w35102
 
 ```bibtex
-@techreport{denbesten2026tariffs,
-  title       = {The Macroeconomic Effects of Tariffs: Evidence From U.S. Historical Data},
-  author      = {Den Besten, Tamar and K{\"a}nzig, Diego R.},
+@techreport{barnichon2026tariffs,
+  title       = {The Macroeconomic Effects of Tariffs: Insights from 180 Years of U.S. Trade Policy},
+  author      = {Den Besten, Tamar and Barnichon, R{\'e}gis and K{\"a}nzig, Diego R. and Singh, Aayush},
   institution = {National Bureau of Economic Research},
-  type        = {NBER Working Paper},
-  number      = {34852},
+  type        = {Working Paper},
+  number      = {35102},
   year        = {2026},
-  doi         = {10.3386/w34852},
-  url         = {https://www.nber.org/papers/w34852}
+  month       = {April},
+  doi         = {10.3386/w35102},
+  url         = {https://doi.org/10.3386/w35102}
 }
